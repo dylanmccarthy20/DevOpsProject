@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/DylanMcCarthy0380/DevOpsProject/_apis/build/status%2Fdylanmccarthy20.spring-petclinic?branchName=main)](https://dev.azure.com/DylanMcCarthy0380/DevOpsProject/_build/latest?definitionId=9&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
